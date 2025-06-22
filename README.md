@@ -26,8 +26,8 @@ Tetrominos is a simple, responsive Tetris clone built in Java using the Swing fr
 ## 🚀 Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/tetrominos-java.git
-cd tetrominos-java
+git clone https://github.com/SaiSharan-99/Tetrominos_Java.git
+cd Tetrominos_Java
 ```
 
 2. Open the project in your IDE (e.g., Eclipse, IntelliJ)
